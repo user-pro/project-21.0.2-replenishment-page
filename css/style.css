@@ -971,6 +971,7 @@ input:focus:-ms-input-placeholder {
 }
 
 .replenishment-content-form__select-input {
+  max-width: 87px;
   cursor: pointer;
   min-width: 87px;
   background-color: transparent;
