@@ -986,6 +986,7 @@ input:focus:-ms-input-placeholder {
   background-repeat: no-repeat;
   background-position: 100% center;
   color: #ffffff;
+  padding-right: 20px;
 }
 
 .replenishment-content-form__select-input option {
